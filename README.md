@@ -17,4 +17,5 @@ Files included:
 - Python notebook
 - Power BI dashboard
 - ## 📊 Dashboard Preview
+Below is the Power BI dashboard showcasing key sales insights:
 ![Dashboard](Dashboard.PNG)
