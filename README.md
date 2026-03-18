@@ -16,3 +16,5 @@ Files included:
 - Dataset (Excel)
 - Python notebook
 - Power BI dashboard
+- ## 📊 Dashboard Preview
+![Dashboard](Dashboard.PNG)
